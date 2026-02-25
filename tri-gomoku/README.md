@@ -30,8 +30,9 @@
 
 ## 🚀 本地运行
 
-直接用浏览器打开 `index.html` 即可。
+  直接用浏览器打开 `index.html` 即可。
 
 ## 📄 许可证
 
 MIT License
+
